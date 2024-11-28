@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\services\\arduinoreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\services\\arduinoreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\controllers\\arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\controllers\\arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|c:\\users\\eva dal cin\\source\\repos\\arduinonew\\arduinonew\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B282BB-592E-4D53-BFB5-53EFEC959021}|arduinoNew\\arduinoNew.csproj|solutionrelative:arduinonew\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Startup.cs",
+              "RelativeDocumentMoniker": "arduinoNew\\Startup.cs",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Startup.cs",
+              "RelativeToolTip": "arduinoNew\\Startup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:15:23.993Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Program.cs",
+              "RelativeDocumentMoniker": "arduinoNew\\Program.cs",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Program.cs",
+              "RelativeToolTip": "arduinoNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:29:40.029Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "arduinoNew\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "arduinoNew\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:46:28.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "arduinoNew\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "arduinoNew\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T15:29:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArduinoController.cs",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Controllers\\ArduinoController.cs",
+              "RelativeDocumentMoniker": "arduinoNew\\Controllers\\ArduinoController.cs",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Controllers\\ArduinoController.cs",
+              "RelativeToolTip": "arduinoNew\\Controllers\\ArduinoController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:29:44.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "arduinoNew\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "arduinoNew\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:29:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArduinoReader.cs",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Services\\ArduinoReader.cs",
+              "RelativeDocumentMoniker": "arduinoNew\\Services\\ArduinoReader.cs",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Services\\ArduinoReader.cs",
+              "RelativeToolTip": "arduinoNew\\Services\\ArduinoReader.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:25:59.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "arduinoNew\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "arduinoNew\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T15:46:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "arduinoNew\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "arduinoNew\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T15:46:38.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "arduinoNew\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Eva Dal Cin\\source\\repos\\arduinoNew\\arduinoNew\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "arduinoNew\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T15:46:39.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
